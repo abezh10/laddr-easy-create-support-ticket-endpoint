@@ -1,4 +1,12 @@
 {
-  "name": "easy-create-support-ticket-endpoint",
-  "private": true
+  "name": "laddr-easy-create-support-ticket-endpoint",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"Sample repo scaffold\"",
+    "start": "echo \"Sample repo scaffold\""
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
